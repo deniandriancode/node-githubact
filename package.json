@@ -1,0 +1,21 @@
+{
+  "name": "githubact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniandriancode/node-githubact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniandriancode/node-githubact/issues"
+  },
+  "homepage": "https://github.com/deniandriancode/node-githubact#readme"
+}
