@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/deniandriancode/node-githubact/issues"
   },
-  "homepage": "https://github.com/deniandriancode/node-githubact#readme"
+  "homepage": "https://github.com/deniandriancode/node-githubact#readme",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  }
 }
